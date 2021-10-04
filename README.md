@@ -1,2 +1,2 @@
 # Clarusway
-this repository is for Clarusway Projet and Assignments
+this repository is for Clarusway Project and Assignments
